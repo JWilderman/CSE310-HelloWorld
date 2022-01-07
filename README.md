@@ -8,7 +8,7 @@
 
 * My purpose for creating this program is to demonstrate some rudimentary knowledge of python.
 
-* [Software Demo Video](http://youtube.link.goes.here)
+* [Software Demo Video](https://youtu.be/DhZratS7Bi0)
 
 # Development Environment
 
